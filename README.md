@@ -36,8 +36,7 @@ Business Insights:
 
 ### 2. Customer Analysis
 Key Metrics: Total Customers, Average Purchase Frequency, Average Revenue per Customer, Repeat Purchase Rate
-<img width="602" height="328" alt="Segment Analysis" src="https://github.com/user-attachments/assets/79fd8a8f-b825-420d-af47-a9889d2a8cf8" />
-<img width="602" height="336" alt="Customer Analysis" src="https://github.com/user-attachments/assets/ac5897be-ed42-4086-b1f3-7acc39388c21" />
+<img width="602" height="328" alt="Segment Analysis" src="https://github.com/user-attachments/assets/79fd8a8f-b825-420d-af47-a9889d2a8cf8" /> <img width="602" height="336" alt="Customer Analysis" src="https://github.com/user-attachments/assets/ac5897be-ed42-4086-b1f3-7acc39388c21" />
 
 Key Findings:
 - The Consumer segment accounts for more than 50% of the total customer base.
