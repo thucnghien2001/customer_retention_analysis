@@ -22,6 +22,7 @@ There are 4 steps in cleaning the data using Excel and SQL:
 ## EXPLORATORY DATA ANALYSIS (EDA)
 ### 1. Sales Performance Analysis
 Key Metrics: Sales, Profit, Orders, Average Order Value (AOV), Gross Margin (%)
+<img width="602" height="333" alt="Sales Analysis" src="https://github.com/user-attachments/assets/8740992d-9d94-452d-bf5f-257405b9ef9a" />
 
 Key Findings:
 - Sales and profit increased consistently from 2014 to 2017, indicating sustained business growth.
@@ -35,6 +36,8 @@ Business Insights:
 
 ### 2. Customer Analysis
 Key Metrics: Total Customers, Average Purchase Frequency, Average Revenue per Customer, Repeat Purchase Rate
+<img width="602" height="328" alt="Segment Analysis" src="https://github.com/user-attachments/assets/79fd8a8f-b825-420d-af47-a9889d2a8cf8" />
+<img width="602" height="336" alt="Customer Analysis" src="https://github.com/user-attachments/assets/ac5897be-ed42-4086-b1f3-7acc39388c21" />
 
 Key Findings:
 - The Consumer segment accounts for more than 50% of the total customer base.
@@ -49,6 +52,7 @@ Business Insights:
 
 ### 3. Regional Analysis
 Key Metrics: Sales, Profit
+<img width="602" height="336" alt="Region Analysis" src="https://github.com/user-attachments/assets/724ad866-7a45-4e06-b60e-df12b980bb5e" />
 
 Key Findings:
 - The West and East regions contribute the largest share of both sales and profit.
@@ -61,6 +65,7 @@ Business Insights:
 
 ### 4. Product Analysis
 Key Metrics: Sales, Profit
+<img width="602" height="336" alt="Category Analysis" src="https://github.com/user-attachments/assets/4f75f16d-2ca9-45ff-aae3-75b899fa062e" />
 
 Key Findings
 - Technology is the highest-performing category in both sales and profit.
@@ -74,6 +79,7 @@ Business Insights
 
 ## CUSTOMER RETENTION ANALYSIS USING COHORT ANALYSIS
 Key Metrics: Customer Retention Rate, Cohort Size
+<img width="602" height="338" alt="Cohort Analysis" src="https://github.com/user-attachments/assets/39b6f173-8687-4cc7-9f80-5d9bb6b9b5c8" />
 
 Key Findings
 - Customer retention declines sharply after the first month.
