@@ -1,6 +1,6 @@
 # customer_retention_analysis
 ## PROJECT GOAL
-The project aims to analyze the online sales dataset of a superstore in the United States to understand which customer segments, product categories and regions they should target or avoid.  The project also performed cohort analysis to identify customer retention rate over time and therefore propose targeted marketing strategy to increase customer lifetime value and sales.
+The project aims to analyze the online sales dataset of a superstore in the United States to understand which customer segments, product categories and regions they should target or avoid.  The project also performed cohort analysis to identify customer retention rate over time and therefore propose targeted marketing strategy to increase customer lifetime value and profitability.
 
 ## DATASET OVERVIEW
 The dataset contains 9994 transactional records  in the period of 2014-2017 and has 21 fields in total: 
