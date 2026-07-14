@@ -80,6 +80,7 @@ Business Insights
 
 ## CUSTOMER RETENTION ANALYSIS USING COHORT ANALYSIS
 Key Metrics: Customer Retention Rate, Cohort Size
+
 <img width="602" height="338" alt="Cohort Analysis" src="https://github.com/user-attachments/assets/39b6f173-8687-4cc7-9f80-5d9bb6b9b5c8" />
 
 Key Findings
