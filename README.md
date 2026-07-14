@@ -84,9 +84,8 @@ Key Metrics: Customer Retention Rate, Cohort Size
 <img width="602" height="338" alt="Cohort Analysis" src="https://github.com/user-attachments/assets/39b6f173-8687-4cc7-9f80-5d9bb6b9b5c8" />
 
 Key Findings
-- Customer retention declines sharply after the first month.
-- By the second month, only 5–15% of customers return for another purchase.
-- Retention remains low but relatively stable thereafter.
+- Customer retention rate declines sharply after the first month.
+- Retention rate remains low but relatively stable thereafter.
 - The March cohort acquired the highest number of new customers.
 
 Business Insights
