@@ -52,6 +52,7 @@ Business Insights:
 
 ### 3. Regional Analysis
 Key Metrics: Sales, Profit
+
 <img width="602" height="336" alt="Region Analysis" src="https://github.com/user-attachments/assets/724ad866-7a45-4e06-b60e-df12b980bb5e" />
 
 Key Findings:
@@ -65,6 +66,7 @@ Business Insights:
 
 ### 4. Product Analysis
 Key Metrics: Sales, Profit
+
 <img width="602" height="336" alt="Category Analysis" src="https://github.com/user-attachments/assets/4f75f16d-2ca9-45ff-aae3-75b899fa062e" />
 
 Key Findings
